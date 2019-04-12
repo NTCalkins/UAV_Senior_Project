@@ -1,0 +1,3 @@
+/home/nvidia/Desktop/Dronekit/build/CMakeFiles/edit_cache.dir
+/home/nvidia/Desktop/Dronekit/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Desktop/Dronekit/build/CMakeFiles/ZED_Obstacle_Avoidance.dir
